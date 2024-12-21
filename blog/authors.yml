@@ -7,15 +7,3 @@ andrewstech:
   socials:
     x: andrewstech1
     github: andrewstech
-
-
-wdhdev:
-  name: William Harrison
-  title: Maintainer
-  url: https://wdharrison.com/
-  image_url: https://github.com/wdhdev.png
-  page: true
-  socials:
-    github: wdhdev    
-
-
